@@ -2,7 +2,6 @@
 make page dark or bright
 
 demo :
-
 https://adventitious.github.io/dark_button/
 
 based on : 
