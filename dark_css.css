@@ -13,7 +13,6 @@ https://codepen.io/HarlemSquirrel/pen/NdMebZ
 body.dark-mode 
 {
   background-color: var(--mylight);
-  /*color: var(--mydark);*/
   color: var(--mydark);
 }
 
