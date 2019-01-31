@@ -2,13 +2,11 @@
 
 /*
 https://codepen.io/HarlemSquirrel/pen/NdMebZ
-$dark-color: #111;
-$light-color: #eee;
 */
+
 :root {
   --mydark: #aaaaaa;
   --mylight: #ffffff;
-	$dark2 : #111;
 }
 
 
