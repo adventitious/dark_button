@@ -1,0 +1,26 @@
+
+
+/*
+https://codepen.io/HarlemSquirrel/pen/NdMebZ
+*/
+
+:root {
+  --mydark: #aaaaaa;
+  --mylight: #ffffff;
+}
+
+
+body.dark-mode 
+{
+  background-color: var(--mylight);
+  /*color: var(--mydark);*/
+  color: var(--mydark);
+}
+
+
+  
+body.light-mode 
+{
+  background-color: var(--mydark);
+  color: var(--mylight);
+}
